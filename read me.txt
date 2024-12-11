@@ -1,0 +1,62 @@
+# Swetha C - Online Portfolio
+
+Welcome to my online portfolio! This portfolio is a showcase of my skills, projects, and achievements in the field of Computer Science and Engineering. It is designed to give you a quick overview of my academic background, technical expertise, and hands-on projects.
+
+## Table of Contents:
+1. About Me
+2. Skills
+3. Projects
+4. Technologies Used
+5. Contact Information
+6. How to Run the Portfolio
+
+## About Me:
+Hi, I'm Swetha C, a pre-final year Computer Science and Engineering student with a passion for coding and problem-solving. I am committed to learning new technologies and building innovative solutions. In this portfolio, you will find my academic achievements, coding projects, and the tools I use to develop my solutions.
+
+## Skills:
+- Programming Languages: Python (Full Point), Java (Intermediate)
+- Technologies: Web Development, Data Science, Digital Marketing
+- Tools: Git, GitHub, SAP, Jupyter, PyCharm, VS Code
+- Soft Skills: Communication, Teamwork, Problem-Solving
+
+## Projects:
+1. **Gesture-Driven Cursor Control**
+   - A Python-based project that uses computer vision to control a computer cursor with hand gestures.
+   - Libraries Used: OpenCV, TensorFlow
+
+2. **Personal Portfolio Website**
+   - A responsive portfolio website built to display my skills, projects, and contact details.
+   - Technologies Used: HTML, CSS, JavaScript
+
+3. **Expense Tracker**
+   - A simple expense tracker that helps users keep track of their personal finances.
+   - Technologies Used: Python (Flask), SQLite
+
+4. **Password Generator**
+   - A tool that generates secure, random passwords for account protection.
+   - Technologies Used: Python
+
+## Technologies Used:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask)
+- Libraries/Frameworks: OpenCV, TensorFlow, Flask
+- Database: SQLite
+- Version Control: Git, GitHub
+
+## Contact Information:
+You can reach out to me through any of the following methods:
+- Email: sweswetha2306@gmail.com
+- LinkedIn: https://www.linkedin.com/in/swethachandramohan/
+- GitHub: https://github.com/Swethachandramohan2306
+- Phone: +91 94426 10226
+
+## How to Run the Portfolio:
+1. Clone the repository:
+   git clone https://github.com/Swethachandramohan2306/portfolio.git
+2. Navigate to the directory:
+   cd portfolio
+3. Open the `index.html` file in your browser to view the portfolio.
+4. For backend-related projects, follow the project-specific instructions.
+
+## License:
+This project is open-source and available under the MIT License.
